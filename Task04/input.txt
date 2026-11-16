@@ -1,0 +1,1 @@
+Four stations; scripts per station: 2, 4, 6, 8

@@ -1,0 +1,2 @@
+Wallet A=1000; Wallet B=1000; 100 transfers each direction
+Tokens: 1 through 20; capacity=5; two consumers

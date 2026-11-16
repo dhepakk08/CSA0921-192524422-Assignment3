@@ -1,0 +1,2 @@
+Manual report created
+Try-with-resources report created

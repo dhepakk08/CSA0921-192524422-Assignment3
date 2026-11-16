@@ -1,0 +1,2 @@
+Enter account number: Enter withdrawal amount: Please collect your cash: Rs.1200
+ATM session closed

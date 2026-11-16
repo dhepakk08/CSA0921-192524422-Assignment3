@@ -1,0 +1,6 @@
+1. amount=1200, balance=5000 -> cash dispensed
+2. amount=0 -> InvalidAmountException
+3. amount=-100 -> InvalidAmountException
+4. amount=7000 -> InsufficientBalanceException
+5. amount=abc -> NumberFormatException
+6. remove card.txt and run -> FileNotFoundException

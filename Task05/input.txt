@@ -1,0 +1,1 @@
+10 seats; 100 users; each seat requested by 10 users

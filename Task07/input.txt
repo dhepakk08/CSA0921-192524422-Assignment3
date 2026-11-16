@@ -1,0 +1,5 @@
+student01.txt: 80,75,90
+student02.txt: 60,70
+student03.txt: 91,88
+student04.txt: corrupt input
+student05.txt: missing file (not present)

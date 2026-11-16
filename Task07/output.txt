@@ -1,0 +1,6 @@
+SUCCESS student01.txt: average=81.66666666666667
+SUCCESS student02.txt: average=65.0
+SUCCESS student03.txt: average=89.5
+FAILED For input string: "not-a-mark"
+FAILED student05.txt is missing
+Summary: success=3, failure=2

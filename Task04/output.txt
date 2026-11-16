@@ -1,0 +1,7 @@
+Station-1 scanned 2 scripts
+Station-2 scanned 4 scripts
+Station-3 scanned 6 scripts
+Station-4 scanned 8 scripts
+All stations finished
+Station-R completed using Runnable
+Runnable station finished
